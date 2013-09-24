@@ -340,7 +340,7 @@
 			]
 		}
 	},
-	"kali": {
+	"Kali": {
 		"default": {
 			"jokes": [
 				"Their screams are like music, and it's time for a symphony.",
@@ -353,7 +353,7 @@
 			]
 		}
 	},
-	"loki": {
+	"Loki": {
 		"default": {
 			"jokes": [
 				"Did I tell you about the time I had Thor put on a dress?  He looked absolutely fabulous.",
@@ -381,7 +381,7 @@
 			]
 		}
 	},
-	"neith": {
+	"Neith": {
 		"default": {
 			"jokes": [
 				"Some Egyptians see me with the head of a lioness.  It's actually rather fetching, but Bastet gets so jealous.",
