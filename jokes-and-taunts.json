@@ -1,0 +1,597 @@
+{
+	"Agni": {
+		"default": {
+			"jokes": [
+				"Only you can prevent forest fires.  Well, unless I'm around.",
+				"How hot do i burn?  Have you ever seen someone ignite ice?"
+			],
+			"taunts": [
+				"Like a match I burn more than once.",
+				"A single tree set aflame can cause an entire forest to burn.  Come be that tree."
+			]
+		}
+	},
+	"Anhur": {
+		"default": {
+			"jokes": [
+				"This heat makes me very tired, but you won't find me lion around.",
+				"Everything the light touches is mine."
+			],
+			"taunts": [
+				"I have slain countless enemies, you will be no different.",
+				"We will end this now, you and I."
+			]
+		}
+	},
+	"Anubis": {
+		"default": {
+			"jokes": [
+				"Oh Bastet, if you only knew.",
+				"I may be Anubis, but I am not a noob."
+			],
+			"taunts": [
+				"Come look into my eyes and gaze upon death itself.",
+				"I have weighed your heart and you are found wanting."
+			]
+		}
+	},
+	"Ao Kuang": {
+		"default": {
+			"jokes": [
+				"You'll never break my wind.",
+				"Breath fire?  Go back to playing D&D in your mother's basement.",
+				"Your forecast calls for ill winds blowing in from the east."
+			],
+			"taunts": [
+				"With seas and storms in my command I shall wipe you from this world.",
+				"if you want to see the sunshine you must weather the storm."
+			]
+		}
+	},
+	"Aphrodite": {
+		"default": {
+			"jokes": [
+				"Awe, but you are beautiful, in the dark.",
+				"You should strive to find beauty in all things, clearly in some things it's just easier to find.",
+				"Look into my eyes and find true -- Hey!  My eyes are up here."
+			],
+			"taunts": [
+				"Some say beauty is a curse, I say it's all in how you use it.",
+				"Don't hate me because I'm beautiful, just be mad that you're not.",
+				"One kiss from me will make you forget why we're even fighting."
+			]
+		}
+	},
+	"Apollo": {
+		"default": {
+			"jokes": [
+				"You've got the voice of a world class drummer.",
+				"I don't want to brag, but the sun literally rises and sets on me.",
+				"Is that a lyre in my pocket or am I just... Well, yeah, nevermind.  That is my lyre."
+			],
+			"taunts": [
+				"ha!  You have the audacity to compare yourself to me?",
+				"I'm about to rock your world, bam!"
+			]
+		}
+	},
+	"Arachne": {
+		"default": {
+			"jokes": [
+				"I tried knitting once, but I just couldn't hold the needles.",
+				"I wouldn't call me itsy bitsy if I were you."
+			],
+			"taunts": [
+				"Stay still while I weave you a wonderful coat.",
+				"Oh what a tangled web we weave when we want to suck the juicy bits out of our enemies."
+			]
+		}
+	},
+	"Ares": {
+		"default": {
+			"jokes": [
+				"Sword?  Check.  Chains?  Check.  Shield?  Check.  Body bages?  Check.",
+				"Ready to get hitched?  I've got your new ball and chain.",
+				"Others say my tactics are \"too brutal and violent.\"  I say, \"is that even possible?\""
+			],
+			"taunts": [
+				"I will show you war!",
+				"I will wield the chains that will bind you.",
+				"I show my enemies no mercy."
+			]
+		}
+	},
+	"Artemis": {
+		"default": {
+			"jokes": [
+				"Training a boar to fight with you is easier than house training him.",
+				"This arrow has your name on it.  See?  \"Moron,\" it's on all of them.",
+				"All these guys are so serious over me.  It's stupid, like, give me some space."
+			],
+			"taunts": [
+				"You'll leave this battle with more holes than you started with.",
+				"Come into my range if you want to be a pin cushion."
+			]
+		}
+	},
+	"Athena": {
+		"default": {
+			"jokes": [
+				"I like to imagine my enemies fear looking me in the eye, but we both know where they truly gaze.",
+				"It is all Greek to me, no seriously, it is all Greek.",
+				"It is not easy fighting in these high heels, oh, but it is so worth it!"
+			],
+			"taunts": [
+				"Intelligence it is not always everything.  In fact, in your case it's nothing.",
+				"Don't be a fool.  Ok, at least pretend not to be a fool.",
+				"You remind me of an angry... Uh, what's the word?  Mouse."
+			]
+		}
+	},
+	"Bacchus": {
+		"default": {
+			"jokes": [
+				"Truly I'm nectar of the gods.",
+				"I think I'm feeling it--feeling tipsy."
+			],
+			"taunts": [
+				"Just 'cus I've had a few doesn't mean I don't have my wits about me.",
+				"Now now, let's not let sips come to flows.",
+				"What's the matter, can't you hold your drinks?"
+			]
+		}
+	},
+	"Bakasura": {
+		"default": {
+			"jokes": [
+				"Cyclops, minions, furies.  Now that's a balanced diet.",
+				"I eat because I'm unhappy.  I'm unhappy because I eat.  It's a viscious cycle."
+			],
+			"taunts": [
+				"I'll suck the meat from your bones.",
+				"Just making room for you."
+			]
+		}
+	},
+	"Bastet": {
+		"default": {
+			"jokes": [
+				"Earning a feline's respect is difficult.  Start impressing me.",
+				"Ah, a cat's life is hard.  You should always pamper them."
+			],
+			"taunts": [
+				"Ooh, you look like fun.  Let's play.",
+				"Who needs catnip when I have you?"
+			]
+		}
+	},
+	"Chang'e": {
+		"default": {
+			"jokes": [
+				"I'm not behind the rabbit.  I am the rabbit.",
+				"How do you catch a unique rabbit?  You 'neak up on it.",
+				"Feeling kind of naughty?  I think I'm having a bad hare day."
+			],
+			"taunts": [
+				"I am the most foul cruel and bad tempered rodent you've ever set eyes upon.  Oh, her?  Yes, well, she's with me.",
+				"The hare always wins, right guys?",
+				"What's that?  You keep a rabbit's foor for good luck?  Well, that's just sick.  Take a lesson from my girl, she keeps the whole rabbit."
+			]
+		}
+	},
+	"Chronos": {
+		"default": {
+			"jokes": [
+				"Time travel does exist.  I invented it next week.",
+				"Time is like a big ball of wibbly wobbly timey whimey stuff.",
+				"Time flies like an arrow.  Fruit flies like a banana.",
+				"Like sands through the hourglass, so are the days of our lives.",
+				"The clock turns ever forward, irresistible, unstoppable... Man, is it late or what?"
+			],
+			"taunts": [
+				"Time brings all things to pass, even you.",
+				"Even the strongest of the warriors break with time.",
+				"Better hurry, your clock is ticking.",
+				"I have seen the future and you're not in it.",
+				"The two most powerful warriors are peace and time.",
+				"They may be able to kill you, but I can make it as if you were never born."
+			]
+		}
+	},
+	"Cupid": {
+		"default": {
+			"jokes": [
+				"It is better to have loved and won than to have loved and lost.  Loser!",
+				"have you ever been so in love that you feel like your heart will explode?  Do you want to be?",
+				"She loves me, she loves me not.  Oh yeah!  There, she loves me!"
+			],
+			"taunts": [
+				"I love you!",
+				"Shot to the heart, and I'm to blame baby!",
+				"This arrow is aimed at your heart."
+			]
+		}
+	},
+	"Fenrir": {
+		"default": {
+			"jokes": [
+				"The say not to bite off more than you can chew.  I haven't had that problem yet.",
+				"I like to be pet... On my stomach... From the inside.",
+				"Get. In. My. Belly."
+			],
+			"taunts": [
+				"I can smell your fear.",
+				"When I look around all I see are sheep.",
+				"If you come any closer I'll rip you to shreds."
+			]
+		}
+	},
+	"Freya": {
+		"default": {
+			"jokes": [
+				"Love, beauty, fertility, gold, war, death.  Is there anything I'm not the goddess of?",
+				"Banishing sounds so serious.  I'm just trying to bring some levity to the situation.",
+				"I'm not naughty, I'm just rendered that way."
+			],
+			"taunts": [
+				"Pity for you I am not the goddess of mercy.",
+				"The name's Freya.  Remember it.",
+				"Look skyward, the valkyries come to escort you to Valhalla."
+			]
+		}
+	},
+	"Guan Yu": {
+		"default": {
+			"jokes": [
+				"War's not a joke.  Find someone else to bother.",
+				"There is no time for humor.  You should be training."
+			],
+			"taunts": [
+				"This blade is sharp.  Don't say I didn't warn you.",
+				"You will fall on my blade.",
+				"A new age begins now, and there is no room for evil within it."
+			]
+		}
+	},
+	"Hades": {
+		"default": {
+			"jokes": [
+				"Hades does not make jokes.",
+				"Not to self, bring home bones of enemies for Cerberus to chew upon."
+			],
+			"taunts": [
+				"Give in now and I will allow you a painless death.",
+				"Do not deny to inevitible, follow me to the underworld."
+			]
+		}
+	},
+	"He Bo": {
+		"default": {
+			"jokes": [
+				"This is where I say something about Confucius.  Ah, no thank you.",
+				"The glass is half empty but it floats on the mighty river."
+			],
+			"taunts": [
+				"Sail me and find yourself broken against my banks.",
+				"The river shall rise and all shall know its power."
+			]
+		},
+		"He Bro": {
+			"jokes": [
+			],
+			"taunts": [
+				"Wut? Wut?  Is the water to cold for ya brah?",
+				"Wise man say, \"You can't stop the waves, but you can learn to surf.\""
+			]
+		}
+	},
+	"Hel": {
+		"default": {
+			"jokes": [
+				"Awe, why can't I keep a boyfriend?  Because you're ugly and you let people run all over you.  Why so mean?",
+				"I know!  We should make cookies.  Cookies?  Cookies?  What the \"F-\" is wrong with you?"
+			],
+			"taunts": [
+				"Let's not hurt them too bad.  Let's make them scream!",
+				"We will kill them, eat their flesh, and drink their souls.  Yeah!  Go team!"
+			]
+		}
+	},
+	"Hercules": {
+		"default": {
+			"jokes": [
+				"Excuse me, do you have a sewing kit handy?  That's a shame because I'm ripped.",
+				"Oh! Hercules! Hercules! Hercules!",
+				"Do you even lift?",
+				"Who needs directions to the beach?"
+			],
+			"taunts": [
+				"I have performed an impossible labore before.  Defeating me would be your first.",
+				"My strength defines me, and soon it will define you too.",
+				"I will pound you into the dirt."
+			]
+		}
+	},
+	"Hun Batz": {
+		"default": {
+			"jokes": [
+				"It's not good to point out a rainbow--or you finger will rot.",
+				"It is not good to remove the first layer of the tortillas--or pimples will appear on your face.",
+				"It is not goot to hit a dog because it will no longer help you in case you need to pass the flames of a fire."
+			],
+			"taunts": [
+				"Do not throw away your hair, fingernails, or teeth because if you don't find them upon your death, you will regret it.",
+				"it is not wise to put a basket on your head, as you will be eaten by a dog.",
+				"One finger. Can that remove lice from the head?"
+			]
+		}
+	},
+	"Isis": {
+		"default": {
+			"jokes": [
+				"My measurements are 34-24-34, but it's my 10-foot wingspan that really drives the guys wild.",
+				"Why did the chicken cross the lane?  To gank the other side.",
+				"I came before the chicken *and* the egg."
+			],
+			"taunts": [
+				"What are you?  Chicken?",
+				"I see dead people.  Looks like you're next.",
+				"You like hot wings?  Mine are the hottest."
+			]
+		}
+	},
+	"kali": {
+		"default": {
+			"jokes": [
+				"Their screams are like music, and it's time for a symphony.",
+				"This is the last sound they will hear."
+			],
+			"taunts": [
+				"In the end everyone bleeds",
+				"You will die screaming.",
+				"Do not fear that I will bring suffering, for in truth I bring an end to it."
+			]
+		}
+	},
+	"loki": {
+		"default": {
+			"jokes": [
+				"Did I tell you about the time I had Thor put on a dress?  He looked absolutely fabulous.",
+				"Sometimes I feel like everyone can see right through me.",
+				"My kids are such monters.  Seriously though, they are."
+			],
+			"taunts": [
+				"I will end your world.",
+				"Come a little closer, I got a secret for you.",
+				"If you can't see me, it's because you're about to die."
+			]
+		}
+	},
+	"Ne Zha": {
+		"default": {
+			"jokes": [
+				"I may be small, but I can wield my spear like no other.",
+				"Don't judge a book by its cover big guy.",
+				"man, my wheels are so hot."
+			],
+			"taunts": [
+				"Ha!  You look much too old to catch me.",
+				"Come and get me big bully.",
+				"What's the matter?  Scared of a kid?"
+			]
+		}
+	},
+	"neith": {
+		"default": {
+			"jokes": [
+				"Some Egyptians see me with the head of a lioness.  It's actually rather fetching, but Bastet gets so jealous.",
+				"All this lane pushing gets me so hot and sweaty.  Hey!  What are you staring at?",
+				"I am a weaver you know?  I once weaved the whole world into creation, but oddly never found time for pants."
+			],
+			"taunts": [
+				"Someone's getting a bit grumpy.",
+				"Awe, it's okay.  It happens to everyone.",
+				"I'm proud of you!  You're trying so very hard."
+			]
+		}
+	},
+	"Odin": {
+		"default": {
+			"jokes": [
+				"I don't always drink mead, but when I do I drink Rathgar's.",
+				"Depth perception?  Ha!  I stab and Gugnir finds its target.  Always."
+			],
+			"taunts": [
+				"Go back home pup, and tell them to send a worthy opponent.",
+				"Come fight me.  My ravens shall feast on eyeballs and entrails."
+			]
+		}
+	},
+	"Poseidon": {
+		"default": {
+			"jokes": [
+				"Something smells fishy... Oh, I... I think it's me.",
+				"How do I get my whites so white?  I wash my clothes with tide.",
+				"I ate that He Bo guy for breakfast with he-biscuits."
+			],
+			"taunts": [
+				"Hmm, you look kind of small.  I should probably throw you back.",
+				"Haha! What's the matter, can't keep your head above the water?",
+				"Tonight you will sleep with the fishes."
+			]
+		}
+	},
+	"Ra": {
+		"default": {
+			"jokes": [
+				"It looks like you're in a tough spot.  Or should I say--a sun spot?",
+				"Sunlight is good for you in moderation.  Unfortunately for you, I am moderating it."
+			],
+			"taunts": [
+				"Time for you daily dose of vitamin D-struction.",
+				"The light can heal or the light can burn!  Okay, it mostly burns."
+			]
+		}
+	},
+	"Sobek": {
+		"default": {
+			"jokes": [
+				"Come closer, it's hard to see you from up here on top of the food chain.",
+				"I have a toothache, can you come look at it for me?  It's the one in the back."
+			],
+			"taunts": [
+				"Somebody's going to pay for all those boots and handbags, might as well be you.",
+				"Drop your guard and I will snatch you from the banks like a naive gazelle.",
+				"I grab hold and don't let go until the kicking stops."
+			]
+		},
+		"High Seas": {
+			"jokes": [
+				"The first enemy I see will walk the plank!  Walk the plank.  I just said that!  I just said that.  Silence bird!  Silence bird.",
+				"Ahoy!  Enemies off the starboard bow.  Port.  Captain doesn't know starboard from port.  Quiet you, or do you want to be fish food?",
+				"Captain, three sheets to the wind.  Arrrr, I've only had a drop of rum you scallywag.",
+				"How'd you like to scrape the barnacles off me rudder?"
+			],
+			"taunts": [
+				"I'll be comin' for your booty ya salty sea dog.",
+				"I'll be hoistin' ya up the mizzenmast soon.  Up the mizzenmast.  Shutup bird, you're ruining it!",
+				"We'll swab the deck with ya!  Arrr, ya no good bilge-rat, go bother someone else."
+			]
+		}
+	},
+	"Thanatos": {
+		"default": {
+			"jokes": [
+				"The river Styx is very nice this time of year, if you don't mind all the bodies.",
+				"Don't look into the dead lights.",
+				"Your misery begins now."
+			],
+			"taunts": [
+				"mine will be the last face you'll ever see.",
+				"Let me release you from your pain.",
+				"You're next."
+			]
+		}
+	},
+	"Thor": {
+		"default": {
+			"jokes": [
+				"Jokes are for Valhalla with a valkyrie and a flagon.  This is battle.",
+				"Fine armor is this.  Why anyone would think four dinner plates upon my chest would offer protection eludes me.",
+				"Is it surprising that the day named after me is also a popular ladies night?"
+			],
+			"taunts": [
+				"I see you fear the bellowing roar of thunder, for your sodden trousers give it away.",
+				"Come, Mjolnir will give you a kiss and take your teeth in the parting.",
+				"You're in for a world of pain.  I bring the thunder *and* the lightning."
+			]
+		}
+	},
+	"Tyr": {
+		"default": {
+			"jokes": [
+				"We don't have time for jokes.",
+				"I cannot break the law, I am the law.",
+				"Idiocy is not an excuse."
+			],
+			"taunts": [
+				"Come, justice awaits.",
+				"You have but once chance to surrender.",
+				"You chose this, remember that."
+			]
+		}
+	},
+	"Vamana": {
+		"default": {
+			"jokes": [
+				"The forecast calls for rain today.  Perhaps I should whip out my umbrella.",
+				"I am singing in the rain.  What a glorious feeling, I'm.. I'm fighting again.",
+				"I have been trained to control my anger but, if I get called a baby again, I'm going to freaking lose it.",
+				"Singing in the rain is fun, but winning is even better."
+			],
+			"taunts": [
+				"Abandon your ignorance and pride, otherwise the pain of constant defeat will be unbearable.",
+				"It is not the size of the opponent that you should consider, but the size of his foot when he grows big and stomps you."
+			]
+		},
+		"Lil' Mana": {
+			"jokes": [
+				"Is that your face or did the Kraken have too much fiber again? OOOH, nah, I'm just goofin'.",
+				"Who am I? I'm batman.",
+				"How you doin'?"
+			],
+			"taunts": [
+				"Hey, say hello to your mother for me!",
+				"You should have banned me when you had the chance.",
+				"So, who wants to get punched in the junk?"
+			]
+		}
+	},
+	"Vulcan": {
+		"default": {
+			"jokes": [
+				"When remodeling a kitchen to withstand intense volcanic temperatures I recommend using two-inch square double-platinum tubing columns supporting wide-flanged steel-perimeter beams.  Box the columns with super-thick...",
+				"When I started building a thumper turret they said, \"You must be daft to build that,\" but I built it all the same just to show 'em. but it blew up.  So, I built a second one, and it blew up.  But the 16th one, it stayed up.",
+				"Now, some people ask me, \"Is it better to bolt or weld?\"  I prefer welded connections.  They're sturdier. If done right they can take a blow from Hercules.  Heh, a double-ended T-joint..."
+			],
+			"taunts": [
+				"It's said that in this world you must either be an anvil or a hammer.  You're looking at a hammer.",
+				"The hardest weapons require the hottest fire.  To get that kind of heat you'll want at least a 20/80 mix of oxygen with nitrogen.  Controlling air-flow is the key, and the best...",
+				"I won't back down.  My spirit is as hard as steel alloy strengthened with up to 2% carbon.  Yeah, that's the one they use in rock drills with a melting point of 2800 degrees."
+			]
+		}
+	},
+	"XBalanque": {
+		"default": {
+			"jokes": [
+				"What, no.  This is not poison on my darts.  This is... this is incense.  Yeah, sandal wood.",
+				"I'm summoning the apocalypse.  I'm kidding, I'm kidding--I don't have that power.",
+				"12/21/12.  You guys are so gullible."
+			],
+			"taunts": [
+				"When the world closes in on you, I will be there and you will know fear.",
+				"I see your weaknesses clearly, even in the dark of night.",
+				"When darkness falls, you won't be safe."
+			]
+		}
+	},
+	"Ymir": {
+		"default": {
+			"jokes": [
+				"Once Odin hit me.  I say to him, \"Haha,\" me almost felt that.  True story.",
+				"Hey Odin, I tell them that story about you hit me and it not hurt.  Ha, you stupid.  Haha."
+			],
+			"taunts": [
+				"I am unstoppable force *and* immovable object.",
+				"You're mine now.  Ymir will love you and squeeze you and call you George.",
+				"Ymir smash you like a pancake.  Me hungry."
+			]
+		}
+	},
+	"Zeus": {
+		"default": {
+			"jokes": [
+				"And I spoke unto them, \"look upon these guns,\" and they did know I was a God.",
+				"Are you ready for twenty one thousand gigawatts?"
+			],
+			"taunts": [
+				"Art thou blind?  The storm clouds gather all around you.",
+				"Cower lesser gods, you face Zeus."
+			]
+		}
+	},
+	"Zhong Kui": {
+		"default": {
+			"jokes": [
+				"Beware the power contained in my demon bag.",
+				"I will free you from your demons.  Sorry if you die in the process.",
+				"A common cure for possession is a little exorcise."
+			],
+			"taunts": [
+				"The evil inside you is screaming to get out.",
+				"Despair foul demons, the underworld calls.",
+				"No demons are safe from my fierce glare."
+			]
+		}
+	}
+}
